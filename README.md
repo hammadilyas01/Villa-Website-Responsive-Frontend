@@ -31,10 +31,9 @@ The main focus of this project was to recreate a professional property website l
 Villa-Website/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── images/
-│   └── ...
+├── style.css
+├── images ...
+├── screenshots
 └── README.md
 ```
 
@@ -69,11 +68,11 @@ This project was created as a **frontend development practice project** to impro
 
 ### Desktop View
 
-![Villa Website Desktop](screenshots/desktop.png)
+![Villa Website Desktop](screenshots/screenshotsdesktop.png)
 
 ### Mobile View
 
-![Villa Website Mobile](screenshots/mobile.png)
+![Villa Website Mobile](screenshots/screenshotsmobile.png)
 
 ## 👨‍💻 Author
 
